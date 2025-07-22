@@ -17,8 +17,8 @@ J’adore explorer, apprendre et maîtriser de nouveaux outils et technologies p
 
 ## 🚀 Projets phares
 
-- **Projet 1** : Description courte ou lien vers le repo
-- **Projet 2** : Description courte ou lien vers le repo
+- **Projet 1** : connaitre tous les outils informatique!
+- **Projet 2** : apprendre a vous connaitre et faire du travail de groupe avec vous!
 
 ## 💡 Ce qui me motive
 
